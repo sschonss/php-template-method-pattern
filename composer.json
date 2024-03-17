@@ -1,0 +1,17 @@
+{
+  "name": "schons/src",
+  "description": "Studies Template Method Pattern",
+  "type": "project",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Schons\\TemplateMethod\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Schons"
+    }
+  ],
+  "require": {}
+}
